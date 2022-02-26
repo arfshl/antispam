@@ -4,7 +4,7 @@ Daftar kata kunci untuk sms spam (pinjol abal-abal, judi, hadiah palsu, dan prom
 | Varian | Keterangan|
 | -------- | -------- |
 [Spam](https://raw.githubusercontent.com/O7zSO31IVg/kata-kunci-sms-spam/main/spam.txt) | Daftar kata kunci untuk sms spam (pinjol abal-abal, dan judi)
-[Spam+](https://raw.githubusercontent.com/O7zSO31IVg/kata-kunci-sms-spam/main/spam+.txt) | Daftar kata kunci untuk sms spam + promosi operator
+[Spam Extra](https://raw.githubusercontent.com/O7zSO31IVg/kata-kunci-sms-spam/main/spam_extra.txt) | Daftar kata kunci untuk sms spam + promosi operator
 # Tutorial
 https://inet.detik.com/tips-dan-trik/d-4609444/cara-filter-sms-spam-di-ponsel-berdasarkan-keyword-tertentu
 # Berkontribusi
