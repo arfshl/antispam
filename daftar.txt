@@ -1,4 +1,4 @@
-# Berikut kata kunci yang digunakan sms spam dan promosi operator
+Berikut kata kunci yang digunakan sms spam
 
 bpkb
 p'njmn
@@ -12,6 +12,9 @@ hadiah
 pinjol
 dana
 pinjaman
+
+Kata kunci promosi operator
+
 murah
 paket
 gb
