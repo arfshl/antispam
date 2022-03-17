@@ -23,3 +23,5 @@ myads
 bonus
 diamond
 hanya
+s&k
+sekarang
