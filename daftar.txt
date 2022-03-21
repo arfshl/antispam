@@ -25,3 +25,4 @@ diamond
 hanya
 s&k
 sekarang
+terakhir
