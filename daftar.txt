@@ -22,3 +22,5 @@ s&k
 puas
 sekarang
 bayar
+nsp
+skb
