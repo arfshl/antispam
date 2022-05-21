@@ -25,3 +25,4 @@ bayar
 nsp
 skb
 beli
+cuma
