@@ -26,3 +26,4 @@ nsp
 skb
 beli
 cuma
+aktifkan
