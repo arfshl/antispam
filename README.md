@@ -1,6 +1,6 @@
 # kata-kunci-sms-spam
 Daftar kata kunci untuk sms spam (pinjol abal-abal, judi, hadiah palsu, dan promosi operator. Lihat [disini](https://github.com/O7zSO31IVg/kata-kunci-sms-spam/raw/main/daftar.txt)
-# Tutorial
+## Tutorial
 - Buka aplikasi pesan
 - Buka pengaturan
 - Klik "filter blokir"
@@ -10,5 +10,5 @@ Daftar kata kunci untuk sms spam (pinjol abal-abal, judi, hadiah palsu, dan prom
 - Tambahkam kata kunci yabg yang ada didaftar
 
 ** Pengaturan mungkin berbeda sesuai aplikasi pesan yang digunakan
-# Berkontribusi
+## Berkontribusi
 Silahkan open pull request maupun issue
