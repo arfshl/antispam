@@ -1,5 +1,5 @@
 # antispam
-Daftar kata kunci untuk sms spam (pinjol abal-abal, judi, hadiah palsu, dan promosi operator. Lihat [disini](https://github.com/5xGrDmDprV/kata-kunci-sms-spam/raw/main/daftar.txt)
+Daftar kata kunci untuk sms spam (pinjol abal-abal, judi, hadiah palsu, dan promosi operator. Lihat [disini](https://github.com/arfshl/kata-kunci-sms-spam/raw/main/daftar.txt)
 ## Tutorial
 - Buka aplikasi pesan
 - Buka pengaturan
